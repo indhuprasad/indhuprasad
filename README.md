@@ -1,19 +1,20 @@
-# Hi there 👋 I'm Indhu Varshini
+# Hi 👋, I'm Indhu Varshini
 
-🎓 Final-Year B.Tech CSE (AI & ML) Student
+### Final-Year B.Tech CSE (AI & ML) Student
+### Aspiring Data Analyst & Software Engineer
 
-🥇 Academic Gold Medalist | CGPA: 8.93
-
-💡 Passionate about Data Analytics, Software Development, and Artificial Intelligence.
+💡 Transforming Data into Insights and Ideas into Solutions.
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 📊 Transforming Data into Insights and Ideas into Solutions
-- 💻 Learning and building real-world projects
-- 🌱 Currently improving my skills in Python, SQL, Power BI, Excel, and Data Analytics
-- 🎯 Looking for internship opportunities in Data Analytics and Software Development
+- 🎓 Academic Gold Medalist
+- 📍 Telangana, India
+- 📊 Interested in Data Analytics
+- 💻 Passionate about Software Development
+- 🌱 Currently learning Python, SQL, Power BI and Data Analytics
+- 🚀 Building industry-level projects
 
 ---
 
@@ -25,24 +26,29 @@
 - Power BI
 - Data Analysis
 - Data Visualization
-- Problem Solving
+- Git & GitHub
 
 ---
 
-## 📌 Current Projects
+## 📂 Projects
 
-- 🔐 Password Generator
-- 🤖 AI Resume Analyzer 
-- 📈 Sales Data Dashboard *(Coming Soon)*
-- 🏢 Smart Complaint & Service Management System *(Coming Soon)*
+### 🔐 Password Generator
+A Python application that generates secure and random passwords.
+
+More exciting projects coming soon...
 
 ---
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: www.linkedin.com/in/indhu-varshini
-- 💻 GitHub: github.com/indhuprasad
-- 📧 Email: indhuvarshini2610@gmail.com
+📧 Email:
+indhuvarshini2610@gmail.com
+
+💻 GitHub:
+https://github.com/indhuprasad
+
+💼 LinkedIn:
+https://linkedin.com/in/indhu-varshini
 
 ---
 
