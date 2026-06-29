@@ -76,17 +76,19 @@ Interactive Power BI dashboard for business insights.
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=indhuprasad&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=indhuprasad&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=indhuprasad&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=indhuprasad&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=indhuprasad&layout=compact&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=indhuprasad&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=indhuprasad&theme=algolia&margin-w=10&margin-h=10)
+![](https://github-profile-trophy.vercel.app/?username=indhuprasad&theme=algolia&no-frame=true&margin-w=10)
 
 ---
 
