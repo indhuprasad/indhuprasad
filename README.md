@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Indhu Varshini</h1>
 
 <h3 align="center">
-🏅 Academic Gold Medalist | Final-Year B.Tech CSE (AI & ML)
+Academic Gold Medalist 🥇 | Final-Year B.Tech CSE (AI & ML)
 </h3>
 
 <h3 align="center">
@@ -13,20 +13,20 @@ Aspiring Data Analyst & Software Engineer
 </h3>
 
 <p align="center">
-💡 <i>Transforming Data into Insights and Ideas into Solutions.</i>
+💡 Transforming Data into Insights and Ideas into Solutions.
 </p>
 
 ---
 
-## 👩💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 Final-Year B.Tech CSE (AI & ML) Student
-- 🏅 Academic Gold Medalist (CGPA: 8.93)
+- 🎓 Academic Gold Medalist
+- 🎓 Final-Year B.Tech CSE (AI & ML)
 - 📍 Telangana, India
 - 📊 Passionate about Data Analytics
 - 💻 Interested in Software Development
-- 🌱 Currently strengthening my skills in Python, SQL, Excel, and Data Analytics
-- 🚀 Building real-world projects to enhance my technical skills and portfolio
+- 🌱 Currently learning Python, SQL, Power BI and Data Analytics
+- 🚀 Building real-world projects for my portfolio
 - 🎯 Actively seeking opportunities to learn, collaborate, and grow
 
 ---
@@ -34,11 +34,11 @@ Aspiring Data Analyst & Software Engineer
 ## 🛠️ Tech Stack
 
 - 🐍 Python
-- 🗄️ SQL
+- 🗄 SQL
 - 📊 Microsoft Excel
-- 📈 Power BI *(Learning)*
-- 📉 Data Analysis *(Learning)*
-- 📊 Data Visualization *(Learning)*
+- 📈 Power BI
+- 📉 Data Analysis
+- 📊 Data Visualization
 - 💻 Git & GitHub
 
 ---
@@ -46,15 +46,13 @@ Aspiring Data Analyst & Software Engineer
 ## 🚀 Current Projects
 
 ### 🔐 Password Generator
-A Python application that generates secure and customizable random passwords.
+A Python application that generates strong and secure random passwords.
 
-### 🤖 AI Resume Analyzer *(🚧 In Progress)*
-
+### 🤖 AI Resume Analyzer
 Building an AI-powered Resume Screening & ATS Analysis System.
 
-### 📊 Sales Data Analysis Dashboard *(🚧 In Progress)*
-
-Developing an interactive dashboard using Excel, SQL, and Power BI to analyze business performance.
+### 📊 Sales Dashboard
+Interactive Power BI dashboard for business insights.
 
 ---
 
@@ -76,4 +74,20 @@ Developing an interactive dashboard using Excel, SQL, and Power BI to analyze bu
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=indhuprasad&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=indhuprasad&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=indhuprasad&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=indhuprasad&theme=algolia&margin-w=10&margin-h=10)
+
+---
+
+⭐ Thanks for visiting my GitHub Profile!
